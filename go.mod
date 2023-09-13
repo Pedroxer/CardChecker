@@ -1,4 +1,4 @@
-module github.com/Pedroxer/cardChecker
+module github.com/Pedroxer/СardChecker
 
 go 1.21.0
 
